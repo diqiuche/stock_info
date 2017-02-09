@@ -11,3 +11,5 @@ sudo pip install stock_info
 stock -c sh600486 或者 stock sh600486
 ```
 
+#### 开发目标
+1. 完成股票相关文章信息的拉取,并可以在终端中展现
